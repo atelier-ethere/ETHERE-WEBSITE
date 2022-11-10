@@ -52,7 +52,7 @@ body,html {
 }
 #title {
 	font-family: 'Lora';
-    font-size: calc(17vw + 17vh);
+    font-size: calc(10vw + 10vh);
 	font-weight: regular;
 	display: flex;
 	padding:1vh, 1vh, 1vh, 1vh;
